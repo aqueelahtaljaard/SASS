@@ -1,0 +1,51 @@
+body{
+  background-image: url("../images/aa.jpg");
+  background-size:cover;
+}
+
+#container{
+
+  font-size: 15px;
+  display: block;
+  margin:0 30%;
+
+}
+
+form{
+  // background-color: #91bbff;
+  padding: 30px;
+  // display: grid;
+  // margin: 5%;
+  h2{
+    margin: 0 auto;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+ol{
+  margin: 0;
+  padding:0;
+}
+    p label{
+      margin: 0 auto;
+      // margin-left: 30%;
+// text-align: center;
+      // margin-right: 10%;
+    }
+  input textarea{
+    // display:inline-block;
+    padding: 8px;
+
+  }
+  input, textarea, label{
+    display: block;
+  }
+    .block{
+      bottom: 0;
+      width: 500px;
+      height: 25px;
+      // margin-left: 35%;
+
+    }
+}

@@ -1,0 +1,31 @@
+body {
+  background-image: url("../images/aa.jpg");
+  background-size: cover; }
+
+#container {
+  font-size: 15px;
+  display: block;
+  margin: 0 30%; }
+
+form {
+  padding: 30px; }
+  form h2 {
+    margin: 0 auto;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline; }
+  form ol {
+    margin: 0;
+    padding: 0; }
+  form p label {
+    margin: 0 auto; }
+  form input textarea {
+    padding: 8px; }
+  form input, form textarea, form label {
+    display: block; }
+  form .block {
+    bottom: 0;
+    width: 500px;
+    height: 25px; }
+
+/*# sourceMappingURL=style.css.map */
