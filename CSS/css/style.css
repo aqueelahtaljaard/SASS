@@ -1,0 +1,81 @@
+/*main*/
+#container {
+  background-color: black;
+  height: 100%;
+  width: 100%; }
+
+/*box 1*/
+.box1 {
+  padding: 10px;
+  height: 200px;
+  width: 200px;
+  float: left;
+  border: 2px solid white;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: #c13490; }
+
+.box1:hover {
+  background-color: #fff160;
+  color: #c13490; }
+
+.box1:active {
+  background-color: #3fffeb; }
+
+/*box 2*/
+.box2 {
+  padding: 10px;
+  height: 200px;
+  width: 200px;
+  float: left;
+  border: 2px solid white;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: #a05eba; }
+
+.box2:hover {
+  background-color: #bbe278;
+  color: #a05eba; }
+
+.box2:active {
+  background-color: #ff483f; }
+
+/*box 3*/
+.box3 {
+  padding: 10px;
+  height: 200px;
+  width: 200px;
+  float: left;
+  border: 2px solid white;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: #5e79ba; }
+
+.box3:hover {
+  background-color: #e5af72;
+  color: #5e79ba;
+  width: 600px; }
+
+.box3:active {
+  background-color: #ffab3f; }
+
+/*box 4*/
+.box4 {
+  padding: 10px;
+  height: 200px;
+  width: 200px;
+  float: left;
+  border: 2px solid white;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: #5eba93; }
+
+.box4:hover {
+  background-color: #ed6455;
+  color: #5eba93;
+  width: 50px; }
+
+.box4:active {
+  background-color: #f27de6; }
+
+/*# sourceMappingURL=style.css.map */
